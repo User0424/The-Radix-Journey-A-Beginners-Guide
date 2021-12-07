@@ -2,8 +2,8 @@
 
 [![CI](https://github.com/radixdlt/radixdlt-scrypto/actions/workflows/ci.yml/badge.svg)](https://github.com/radixdlt/radixdlt-scrypto/actions/workflows/ci.yml)
 
-Language for building DeFi apps on Radix.
-ATTENTION
+Language for building DeFi apps on Radix.\
+**ATTENTION**\
 This is just a copy and might be outdated! I don't keep it updated. Please go to https://github.com/radixdlt/radixdlt-scrypto to get the latest version!
 
 ## Terminology

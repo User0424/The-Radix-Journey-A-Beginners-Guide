@@ -38,7 +38,7 @@
  https://github.com/radixdlt/radixdlt-scrypto
 
  Initially I only wanted to clone the subdirectory that contains the scrypto examples - TIL: That's not possible. Apparently on github you always clone the entire repo (if that's the right wording)\
- Since I don't care for most of the stuff yet, I've proceeded to delete almost everything except the examples and .github folder (which seems important, I'm just guessing though - Edit: This turned out to be a mistake! I think I have to delete this folder too, otherwise it won't let me copy the project to my repository) and I created a new folder "helloworld" in which I will save this very file here.\
+ Since I don't care for most of the stuff yet, I've proceeded to delete almost everything except the examples and .github folder (which seems important, I'm just guessing though - Edit: This turned out to be a mistake! I think I have to delete this folder too, otherwise it won't let me copy the project to my repository) and I created a new folder "helloworld" in which I will save this very file here.
 
 
  Next I'll check if I can get all of this uploaded to my github errr... account (?) or whatever it is called.\
