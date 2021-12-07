@@ -104,3 +104,4 @@ scrypto test
 - `radix-engine`: The Scrypto execution engine.
 - `simulator`: A simulator that run Scrypto code on a filesystem based ledger.
 - `examples`: Scrypto examples.
+# The-Radix-Journey-A-Beginners-Guide
