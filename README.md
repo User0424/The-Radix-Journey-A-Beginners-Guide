@@ -3,6 +3,8 @@
 [![CI](https://github.com/radixdlt/radixdlt-scrypto/actions/workflows/ci.yml/badge.svg)](https://github.com/radixdlt/radixdlt-scrypto/actions/workflows/ci.yml)
 
 Language for building DeFi apps on Radix.
+ATTENTION
+This is just a copy and might be outdated! I don't keep it updated. Please go to https://github.com/radixdlt/radixdlt-scrypto to get the latest version!
 
 ## Terminology
 
@@ -14,8 +16,6 @@ Language for building DeFi apps on Radix.
 - **ResourceDef**: The definition of a resource, including metadata, supply and mint auth.
 - **Bucket**: A transient resource container.
 - **Vault**: A persistent resource container in ledger state.
-
-![Resource Flow](./assets/resource-flow.png)
 
 ## Installation
 
@@ -104,4 +104,3 @@ scrypto test
 - `radix-engine`: The Scrypto execution engine.
 - `simulator`: A simulator that run Scrypto code on a filesystem based ledger.
 - `examples`: Scrypto examples.
-# The-Radix-Journey-A-Beginners-Guide
